@@ -34,7 +34,7 @@ I am an **SRE / DevOps Engineer** who is deeply passionate about technology and 
 ### 📫 Reach Out
 
 - 💬 **Ask me about**: Go, Linux tuning, retro gaming, or tech investments.
-- 📧 **Personal website**: www.kaithe.world
+- 📧 **Business card**: www.kaithe.world
 
 ---
 <p align="center">
