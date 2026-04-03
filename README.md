@@ -25,8 +25,8 @@ I am an **SRE / DevOps Engineer** who is deeply passionate about technology and 
 ### 🕹️ Interests & Lifestyle
 
 - 👾 **Retro Gaming**: A huge fan of classic retro games and the purity of their mechanics.
-- 📈 **Investments**: Highly interested in finance and the long-term productivity of the tech sector. I currently hold **QQQ100**.
-- ⚡ **Compute Tokens**: I offer **low-cost compute tokens**. If you need high-performance resources for your projects, feel free to reach out!
+- 📈 **Investments**: Focused on long-term exposure to the US tech sector via **Nasdaq-100 (QQQ)**.
+- ⚡ **Compute Tokens**: I offer **low-cost** compute tokens!!!
 - 📸 **Hobbies**: Exploring the world and capturing life's textures with my Fujifilm camera.
 
 ---
