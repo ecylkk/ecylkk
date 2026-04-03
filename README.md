@@ -34,9 +34,9 @@ I am an **SRE / DevOps Engineer** who is deeply passionate about technology and 
 ### 📫 Reach Out
 
 - 💬 **Ask me about**: Go, Linux tuning, retro gaming, or tech investments.
-- 📧 **Email**: [Your Email Here]
+- 📧 **Personal website**: www.kaithe.world
 
 ---
 <p align="center">
-  <i>"Yare Yare Daze... Let's build something unbreakable."</i>
+  <i>"やれやれ やれやれ... Let's build something unbreakable."</i>
 </p>
