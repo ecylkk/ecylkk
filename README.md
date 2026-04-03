@@ -1,50 +1,42 @@
-# KAI-KAI // ecylkk
+# Hi there, I'm Kai(ecylkk) 👋 
 
-```
-SYSTEM ONLINE ▓▓▓▓▓▓▓▓▓▓ 100%
-ROLE    : SRE / DevOps Engineer
-FOCUS   : Infrastructure · Automation · Reliability
-```
+### 👨‍💻 About Me
+I am an **SRE / DevOps Engineer** who is deeply passionate about technology and building resilient systems. 
 
----
-
-### ⚙️ CORE STACK
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+- 🚀 **Focus**: Infrastructure, Automation, and Cloud Native solutions.
+- 🗣️ **Learning**: Actively expanding my horizons by studying **English** and **Japanese**.
+- 📍 **Base**: Shanghai / Suzhou / Hangzhou.
 
 ---
 
-### 📡 CURRENT OPERATIONS
+### 🛠️ Tech Stack
 
-- `[ACTIVE]` Building resilient, automated infrastructure
-- `[ACTIVE]` Acquiring **Japanese** & **English** language protocols
-- `[ACTIVE]` Long-term **QQQ** position — betting on tech
-- `[STANDBY]` Low-cost compute tokens available — DM to acquire
-
----
-
-### 🕹️ OFFLINE MODULES
-
-```
-> RETRO_GAMING.exe   ████████████  LOADED
-> PHOTOGRAPHY.exe    ████████░░░░  FUJIFILM
-> INVESTMENT.exe     ████████████  QQQ HOLD
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-### 📫 TRANSMISSION
+### 🕹️ Interests & Lifestyle
 
-- **Email** : kai@kaithe.world
+- 👾 **Retro Gaming**: A huge fan of classic retro games and the purity of their mechanics.
+- 📈 **Investments**: Highly interested in finance and the long-term productivity of the tech sector. I currently hold **100 shares of QQQ**.
+- ⚡ **Compute Tokens**: I offer **low-cost compute tokens**. If you need high-performance resources for your projects, feel free to reach out!
+- 📸 **Hobbies**: Exploring the world and capturing life's textures with my Fujifilm camera.
 
 ---
 
+### 📫 Reach Out
 
+- 💬 **Ask me about**: Go, Linux tuning, retro gaming, or tech investments.
+- 📧 **Email**: [Your Email Here]
 
-
-  // KEEP IT SIMPLE. KEEP IT RUNNING. //
+---
+<p align="center">
+  <i>"Yare Yare Daze... Let's build something unbreakable."</i>
+</p>
