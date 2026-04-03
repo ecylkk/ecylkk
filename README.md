@@ -38,5 +38,5 @@ I am an **SRE / DevOps Engineer** who is deeply passionate about technology and 
 
 ---
 <p align="center">
-  <i>"やれやれ やれやれ... Let's build something unbreakable."</i>
+  <i>"やれやれ だぜ... Let's build something unbreakable."</i>
 </p>
