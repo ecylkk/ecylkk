@@ -1,20 +1,17 @@
-# Hi there, I'm Kai-Kai (ecylkk) 👋 
+# Hi there, I'm Kai (ecylkk) 👋 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecylkk&label=Profile%20views&color=0e75b6&style=flat" alt="ecylkk" />
-</p>
+### 👨‍💻 SRE & DevOps Engineer
+I specialize in building resilient, automated, and scalable infrastructure. I believe in the "Golden Spirit" of technology—striving for excellence and reliability in every line of code.
 
-### 👨‍💻 About Me
-I am a **DevOps / SRE Engineer** driven by the "Golden Spirit" of technology. I specialize in building resilient infrastructure and automating everything that can be automated. Currently based in the Yangtze River Delta (Shanghai/Suzhou/Hangzhou area).
-
-- 🚀 **Focus**: Cloud Native, Kubernetes, and Infrastructure as Code.
+- 🚀 **Focus**: Cloud Native, Kubernetes, and Infrastructure Automation.
 - 🛠️ **Languages**: Deeply passionate about **Go**, **Python**, and **Shell** scripting.
-- 🐧 **OS**: A hardcore **Linux** enthusiast and system tuner.
-- 🇯🇵 **Learning**: Currently conquering **JLPT N2** to bridge tech across borders.
+- 🐧 **OS**: Hardcore **Linux** enthusiast, focused on system tuning and performance.
+- 🗺️ **Base**: Actively networking in **Shanghai / Suzhou / Hangzhou**.
+- 🇯🇵 **Learning**: Currently conquering **JLPT N2** for global tech collaboration.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -23,31 +20,21 @@ I am a **DevOps / SRE Engineer** driven by the "Golden Spirit" of technology. I 
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 
 ---
 
-### 🕹️ Interests & Lifestyle
-- 👾 **Retro Gaming**: Obsessed with the purity of classic game mechanics and pixel art.
-- 📈 **Investments**: Firm believer in the long-term productivity of tech; **QQQ** holder.
-- 📸 **Fujifilm**: Capturing life’s textures through a Fuji lens.
-- ⚡ **Special Offer**: I provide **low-cost compute tokens**. Reach out if you need high-performance resources for your projects!
+### 🕹️ Lifestyle & Interests
+- 👾 **Retro Gaming**: Obsessed with classic game mechanics and pixel-perfect aesthetics.
+- 📈 **Investments**: Long-term **QQQ** holder; I bet on tech productivity.
+- 📸 **Fujifilm**: Capturing the world through the unique color science of Fuji.
+- 🌟 **JoJo's Bizarre Adventure**: "What I'm looking for is not 'victory', but the 'Golden Spirit'."
+- ⚡ **Compute Tokens**: I offer **low-cost compute tokens**. DM me if you need high-performance resources for your projects.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ecylkk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecylkk&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📫 Reach Out
-- 💬 **Ask me about**: Go concurrency, K8s architecture, or why QQQ is the ultimate long-term play.
-- 🗺️ **Location**: Shanghai / Suzhou / Hangzhou.
+### 📫 Contact Me
+- 💬 **Ask me about**: Go concurrency, K8s troubleshooting, or why QQQ is the goat.
 - 📧 **Email**: [Your Email Here]
 
 ---
